@@ -1,0 +1,193 @@
+
+/*A  Lista do Usuário*/
+
+
+#Limite{
+    margin-top:40%;
+    color: rgb(233, 3, 3);
+
+}
+
+#Listas{
+
+
+    background-color: #22222B;
+    height: 30px; 
+    width:  255px;
+    margin-top:3%;
+    margin-left:15%;
+    border: 5px solid rgb(233, 3, 3);
+    background-color: rgb(233, 3, 3);
+    color: rgb(255, 255, 255);
+    border-radius: 20px 20px 20px;
+    display: inline-block;
+    flex-direction: column;
+
+}
+
+#Listas a{
+   
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+
+
+
+}
+
+#lixo button {
+    border: 0;
+    cursor:pointer;
+    height: 0px; 
+    width:  0px;
+    padding: 0;
+    margin-left:180px;
+ 
+}
+
+#lixo {
+    margin-left:38px;
+    margin-top: -15px;
+}
+
+
+
+
+
+#Titulo{
+
+    margin-left:0%;
+    margin-top:130px;
+
+}
+
+#Titulo a {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+  }
+  #Titulo a1 {
+    font-weight: bold;
+    color: rgb(255, 0, 0);
+  }
+
+#CriarLista{
+
+
+
+    margin-left:12%;
+    margin-top:6px;
+
+}
+
+
+#CriarLista a2{
+    color: rgb(255, 0, 0);
+
+}
+
+
+#Listas input[type=submit] {
+    background-color: #22222B;
+    height: 40px; 
+    width:  150px;
+    margin-top:1%;
+    border: 5px solid rgb(233, 3, 3);
+    background-color: rgb(233, 3, 3);
+    color: rgb(255, 255, 255);
+    border-radius: 20px 20px 20px;
+
+}
+
+#Listas input[type=submit]:hover{
+    background-color: rgb(165, 7, 7);
+    text-decoration: none;
+    border: 5px solid rgb(165, 7, 7);
+    
+
+}
+
+#Listas input{
+    background-color: #22222B;
+    height: 35px; 
+    width:  20%;
+    margin-top:1%;
+    border: 5px solid rgb(255, 255, 255);
+    background-color: azure;
+    border-radius: 20px 20px 20px;
+   
+
+}
+
+
+
+
+/*Input*/
+
+
+#CriarLista input[type=submit] {
+    background-color: #22222B;
+    height: 40px; 
+    width:  150px;
+    margin-top:1%;
+    border: 5px solid rgb(233, 3, 3);
+    background-color: rgb(233, 3, 3);
+    color: rgb(255, 255, 255);
+    border-radius: 20px 20px 20px;
+
+}
+
+#CriarLista input[type=submit]:hover{
+    background-color: rgb(165, 7, 7);
+    text-decoration: none;
+    border: 5px solid rgb(165, 7, 7);
+    
+
+}
+
+#CriarLista input{
+    background-color: #22222B;
+    height: 35px; 
+    width:  20%;
+    margin-top:1%;
+    border: 5px solid rgb(255, 255, 255);
+    background-color: azure;
+    border-radius: 20px 20px 20px;
+   
+
+}
+
+
+
+
+
+@media (max-width: 600px) {
+
+    #CriarLista input{
+        background-color: #22222B;
+        height: 35px; 
+        width:  50%;
+        margin-top:1%;
+        border: 5px solid rgb(255, 255, 255);
+        background-color: azure;
+        border-radius: 20px 20px 20px;
+       
+    
+    }
+
+
+    #Titulo{
+
+        margin-top:180px;
+
+    }
+
+
+    
+}
+
+
+
+/*Outras Formatações*/
+
+
+

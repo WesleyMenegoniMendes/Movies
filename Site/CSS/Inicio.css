@@ -1,0 +1,73 @@
+
+/*Tela Inicial do Site*/
+
+
+div {
+    display: inline-block;
+
+}
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-family: sans-serif;
+  }
+
+#Obras{
+
+    /*border: 1px outset rgb(248, 9, 9);*/
+    height: 360px;
+    width: 227px;
+    margin-left:7%;
+    margin-top:80px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 1rem 1.5rem;
+    border-radius: 8px;
+    white-space: normal
+
+    
+}
+
+
+
+
+#Obrasmargim{
+
+    margin-top:10%;
+    width: 100%;
+
+
+
+}
+
+#paginacao a {
+    float: left;
+    padding: 5px;
+}
+
+#content .page {
+    display: none;
+}
+
+#content .active {
+    display: block;
+}
+
+/*Inicio*/
+
+
+
+
+
+
+
+/*Outras Formatações*/
+
+
+
+@media (max-width: 600px) {
+
+
+    
+}

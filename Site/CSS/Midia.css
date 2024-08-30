@@ -1,0 +1,125 @@
+#Obras {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-top:7%;
+  }
+
+
+ /* Estilo Descrição */
+
+ #Informacaoes2 {
+    margin: 0 auto;
+    padding: 20px;
+    /*border: 1px solid #ccc;*/
+    color: #ffffff;
+    margin-top:-400px;
+    margin-left:300px;
+  }
+
+  
+  /* Estilo para o nome do filme */
+  .nome {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para a descrição do filme */
+  .descricao {
+    font-size: 18px;
+    margin-bottom: 10px;
+    width: 70%;
+  }
+  
+  /* Estilo para a data de lançamento */
+  .data {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para o gênero do filme */
+  .genero {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para o subgênero do filme */
+  .subgenero {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para o diretor do filme */
+  .diretor {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para temporadas (se for uma série) */
+  p6 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo para episódios (se for uma série) */
+  p5 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  
+
+ /* //Estilização do Botão */
+  #Listas{
+
+
+    background-color: #22222B;
+    height: 20px; 
+    width:  200px;
+    margin-top: 1%;
+    margin-left:1%;
+    border: 5px solid rgb(233, 3, 3);
+    background-color: rgb(233, 3, 3);
+    color: rgb(255, 255, 255);
+    border-radius: 20px 20px 20px;
+    display: inline-block;
+    flex-direction: column;
+
+}
+
+
+ /* //Estilização do adicionar */
+#Adicionar{
+  margin-top:-18px;
+  height: 14px;;
+  width:  20%;
+  margin-left:83%;
+  cursor:pointer;
+
+
+}
+
+
+#Adicionar button{
+  cursor:pointer;
+
+
+}
+
+#Listas a {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+
+}
+
+#Notificacao {
+  color: rgb(255, 255, 255);
+  height: 10%; 
+
+
+}
+
+

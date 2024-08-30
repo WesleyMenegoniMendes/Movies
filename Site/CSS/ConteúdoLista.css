@@ -1,0 +1,146 @@
+
+/*Conteudo da Lista do Usuário */
+
+#Obras{
+
+    width:  30%;
+    margin-top:100px;
+    margin-left:35%;
+    color: rgb(255, 255, 255);
+    border-radius: 20px 20px 20px;
+    border-top: 5px solid rgb(233, 3, 3);
+    border-left: 5px solid rgb(233, 3, 3);
+    color: rgb(255, 255, 255);
+    border-radius: 20px 20px 20px;
+    display: inline-block;
+    flex-direction: column;
+
+
+
+}
+
+
+#Sair{
+    margin-left:90%;
+    margin-top:40px;
+
+
+
+
+}
+
+#Lixo{
+    margin-top:-25px;
+    height: 20px;;
+    width:  30%;
+    margin-left:93%;
+
+
+}
+
+
+#Lixo button{
+    cursor:pointer;
+
+
+}
+
+
+
+
+#Nome{
+    margin-top:2%;
+    font-size: 20px;
+    border-top: 1px #444444;
+
+
+}
+
+/*Titulo */
+
+#Titulo{
+
+    margin-left:0%;
+    margin-top:130px;
+    font-size: 40px;
+
+}
+
+#Titulo a {
+    font-size: 5.0px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+  }
+  #Titulo a1 {
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+  }
+
+
+/*Outras Formatações*/
+
+
+
+
+/*Formatação para Celulares*/
+@media (max-width: 600px) {
+
+
+    #Obras{
+
+        width:  80%;
+        margin-top:100px;
+        margin-left:13%;
+        color: rgb(255, 255, 255);
+        border-radius: 20px 20px 20px;
+        border-top: 5px solid rgb(233, 3, 3);
+        border-left: 5px solid rgb(233, 3, 3);
+        color: rgb(255, 255, 255);
+        border-radius: 20px 20px 20px;
+        display: inline-block;
+        flex-direction: column;
+    
+    
+    
+    }
+    
+    
+    #Nome{
+    
+        margin-top:20px;
+    
+    
+    
+    }
+    
+    
+    #Sair{
+        margin-left:90%;
+        margin-top:40px;
+    
+
+
+    
+}
+
+#Lixo{
+    margin-top:-25px;
+    height: 20px;;
+    width:  30%;
+    margin-left:90%;
+
+
+}
+
+#Titulo{
+
+    margin-left:8%;
+    margin-top:130px;
+    font-size: 40px;
+
+}
+
+
+}
+
+

@@ -1,0 +1,113 @@
+
+
+
+
+ /* Aba de alteração botão */
+input{
+  background-color: #22222B;
+  height: 8%; 
+  width:  30%;
+  margin-top:1%;
+  border: 5px solid rgb(255, 255, 255);
+  background-color: azure;
+  border-radius: 20px 20px 20px;
+ 
+
+}
+
+
+
+
+
+ /* Aba de alteração botão */
+input[type=submit] {
+  background-color: #22222B;
+  height: 8%; 
+  width:  24%;
+  margin-top:1%;
+  border: 5px solid rgb(233, 3, 3);
+  background-color: rgb(233, 3, 3);
+  color: rgb(255, 255, 255);
+  border-radius: 20px 20px 20px;
+
+}
+
+
+ /* Aba de alteração botão */
+ #Obras input[type=submit]:hover{
+  background-color: rgb(165, 7, 7);
+  text-decoration: none;
+  border: 5px solid rgb(165, 7, 7);
+
+}
+
+
+
+ /* Boby*/
+#Obras {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    /*border: 1px solid #ccc;*/
+    margin-top:10%;
+    color: #ffffff
+  }
+
+
+
+
+@media (max-width: 600px) {
+
+  #Obras {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top:30%;
+    color: #ffffff
+  }
+
+  
+    input{
+        background-color: #22222B;
+        height: 8%; 
+        width:  100%;
+        margin-top:1%;
+        border: 5px solid rgb(255, 255, 255);
+        background-color: azure;
+        border-radius: 20px 20px 20px;
+       
+    
+    }
+    
+    
+    
+    
+    
+    
+    input[type=submit] {
+        background-color: #22222B;
+        height: 8%; 
+        width:  60%;
+        margin-top:1%;
+        border: 5px solid rgb(233, 3, 3);
+        background-color: rgb(233, 3, 3);
+        color: rgb(255, 255, 255);
+        border-radius: 20px 20px 20px;
+    
+    }
+    
+    
+    
+    input[type=submit]:hover{
+        background-color: rgb(165, 7, 7);
+        text-decoration: none;
+        border: 5px solid rgb(165, 7, 7);
+    
+    }
+
+
+
+
+}
+
+
